@@ -9,7 +9,7 @@ This repository contains my solution to the Article Preview Component challenge 
 ## Links
 
 - [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://whimsical-treacle-42ec56.netlify.app)
 
 
 ### Built With
