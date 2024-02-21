@@ -1,6 +1,3 @@
-Certainly! Here's the content in Markdown format:
-
-```markdown
 # Frontend Mentor - Article Preview Component Solution
 
 This is a solution to the [Article Preview Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges provide an excellent opportunity to enhance coding skills by working on realistic projects.
