@@ -1,0 +1,9 @@
+.app-container{
+ display:grid;
+ place-content: center;
+ height:100vh;
+ background-color: hsl(185, 75%, 39%);
+ background-image: url('D:\React\profile-component-card\src\assets\bg-pattern-top.svg'), url('D:\React\profile-component-card\src\assets\bg-pattern-bottom.svg');
+ background-position: -43% 213%, 134% -160%;
+ background-repeat: no-repeat;
+}
